@@ -1,0 +1,54 @@
+body{
+	background: url("image.jpg");
+}
+h1{
+    color:white;
+    text-align:center;
+}
+#A{
+	color:darkslategray;
+	text-align:left;
+    margin:20px;
+    padding:10px;
+}
+#B{
+	color:mediumpurple;
+	text-align:left;
+	margin:20px; 
+	padding:10px;
+}
+#one{
+	color:mediumaquamarine;
+	text-align: left;
+	margin:40px;
+	padding:5px;
+}
+#two{
+	color:lightblue;
+}
+a{
+	color:lime;
+	text-align:left;
+	margin:80px;
+}
+img{
+	width: 300px;
+	height: 400px;
+	min-width:465px;
+}
+input.Mybutton{
+	width:300px;
+	padding:20px;
+	cursor:pointer;
+	font-weight:bold;
+	font-size:150%;
+	background:#2E2EFE;
+	color: #fff;
+	border:2px solid #2E2EFE;
+	border-radius: 10px;
+}
+input.Mybutton:hover{
+	color:#fff00;
+	background:#000;
+	border:2px solid #fff; 
+}
